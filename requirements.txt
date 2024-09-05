@@ -1,2 +1,3 @@
 joblib
 catboost
+streamlit, version 1.37.1
